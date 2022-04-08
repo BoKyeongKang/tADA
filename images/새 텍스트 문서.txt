@@ -1,0 +1,1 @@
+.swiper-container slide, header, .header_inner, .nav li, .content1, #content, .content2, .barogo,  .content3, .content4, .content5, #cardevent, footer 
